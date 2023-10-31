@@ -11,3 +11,5 @@ This project helps to pull data from event brite and store in a google sheet and
 6. StartDate
 7. End Date
 
+![](https://raw.githubusercontent.com/vichuroxx/Events-to-Google-Calendar/main/imgs/chrome_HYcIWld09f.gif)
+
